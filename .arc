@@ -1,5 +1,5 @@
 @app
-begin-app
+bear-ybj
 
 @static
 folder build
